@@ -1,0 +1,8 @@
+--- ALL RENTAL RECORDS ---
+Rental ID: 1
+Customer ID: 32, Name: fdsa, Location: fd
+Vehicle: fsd
+Driver: fsda
+Price: 7214.0 BDT
+--------------------
+
